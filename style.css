@@ -11,12 +11,12 @@ body {
 
 h1 {
     color: grey;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     margin-top: 80px;
 }
 #display {
-    width: 500px;
+    width: 400px;
     height: 120px;
     font-size: 45px;
     background-color: #8f9c9c;
@@ -28,8 +28,8 @@ h1 {
 }
 
 .container {
-    height: 800px;
-    width: 570px;
+    height: 700px;
+    width: 500px;
     background-color: #425757;
     border-radius: 10px;
     margin-top: 50px;
@@ -41,10 +41,10 @@ h1 {
     
 }
 #clear {
-    width: 220px;
+    width: 180px;
 }
 #backspace {
-    width: 220px;
+    width: 180px;
 }
 
 .buttons {
@@ -54,8 +54,8 @@ h1 {
 
 
 button {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
     font-size: 30px;
     margin: 10px;
     border-radius: 25px;
